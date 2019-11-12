@@ -1,0 +1,128 @@
+/**UTILIDADES**/
+.centrar{
+    text-align: center;
+}
+
+
+/**HEADER**/
+.foto{
+    width: 9rem;
+    height: 9rem;
+    padding-bottom: 1rem;
+}
+.contenedorheader{
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+
+}
+.iniciositio{
+    display: flex;
+    justify-content: center;
+    background-color: #ffda2d;
+
+}
+h1{
+    font-size: 2rem;
+    margin: 2rem 0 -1.7rem 0;
+}
+.thres{
+    padding:0 0 0 1.5rem;
+    color: #f44336;
+}
+/**BODY**/
+/**SECCION PERFIL PROFESIONAL**/
+ h2{
+     text-align: center;
+     color: #f44336;
+ }
+
+ .inicioperfil{
+     display: flex;
+     justify-content: space-around;
+ }
+ .parrafocontacto
+{
+    display: block;
+    max-width: 100%;
+    margin: 0 0 0 4rem;
+    width: 25rem;
+}
+.parraforedes
+{
+    display: block;
+    max-width: 150px;
+    margin: 0 0 0 1;  
+}
+.iconoredes
+{
+    width: 4rem;
+    height: 4rem;
+}
+/** SECCION EXPERIENCIA LABORAL**/
+
+.parrafoexperiencia{
+    display: flex;
+}
+/** SECCION HABILIDADES TECNICAS**/
+.parrafohabilidades{
+    display: flex;
+    
+}
+.barra{
+    width: 250px;
+    border: solid;
+    padding: 10px;
+    background: cadetblue;
+}
+
+.border{
+    padding: 10px;
+    background: fuchsia;
+    max-width: 60px;
+}
+/**ESTUDDIOS REALIZADOS**/
+.perfil{
+    display: flex;
+}
+
+.ínicioc{ 
+     
+    display: flex; 
+    margin: 0 2rem 0 2rem;
+}
+ 
+.inicioa{ 
+     
+    display: block;   
+    margin: 4rem 3rem 0 1rem;
+    
+}
+ 
+.iniciob{
+    display:block; 
+    margin: 4rem 3rem 0 1rem; 
+}
+
+/**PORTAFOLIO**/
+.perfil{
+    display: flex;
+}
+
+   
+    
+/*tamaño de imagenes*/
+.mn{ 
+    width: 17rem;
+    height: 10rem; 
+    margin:0 2rem 0 2rem
+     
+}
+   
+.s{ 
+    width: 17rem;
+    height: 10rem; 
+    margin: 2rem;
+     
+
